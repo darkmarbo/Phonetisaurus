@@ -1,0 +1,469 @@
+e|z	s:1 
+t|a	t_d:1 
+t|e	t_d:2 
+t|i	s:1 
+r|e	r:1 
+e|a	"i:1 
+v|e	f:1 
+D	d:1517 
+H	h:629 
+L	l:532 
+P	p:2978 
+T	t_d:1394 
+X	x:12 
+z|o	s:1 
+d	d:14673 t_d:3 d|"e:1 
+h	h:9251 h|"a:1 
+f	f:2386 
+l	l:18925 E|l:1 
+p	p:15804 p|"e:1 
+t	t_d:24918 t_d|"e:1 t_d|e:1 
+x	x:18 k|s:1 s:3 
+l|(	_:1 
+s|h	S:18 
+u|l	l:3 
+s|e	s:8 
+u|d	"u:27 
+s|y	S:206 s:1 
+n|g	N:14448 
+h|i	i:5 I:6 
+N|y	J:28 
+h|u	"u:3 u:2 U:2 
+n|k	N:6 
+o|e	o:2 u:2 "u:1 
+C	t_S:382 
+G	g:495 d_Z:1 
+K	k:2196 
+l|e	l:1 
+S	s:2365 
+O	o:120 "o:77 
+W	w:387 
+n|y	.:7181 J:1915 
+_	.:3094 ?:3547 a:10 k|"a:4 e:12 "E:6 "a:1 "e:11 @:2 "E|t_d:1 
+c	t_S:4429 k:11 t_S|"e:1 s:1 
+g	g:6489 d_Z:20 g|"e:1 
+a|y	aj:1 
+k	k:23834 ?:4440 k|"a:1 
+a|u	"aw:461 aw:529 
+o	O:2310 o:7988 "o:5932 "O:505 @:18 
+s	s:24603 E|s:1 r|"u:1 
+R|h	r:4 
+w	w:2114 w|"e:1 
+a|i	"aj:574 aj:627 
+k|(	a:1 
+K|h	x:70 
+B	b:1360 
+F	f:282 
+J	d_Z:435 
+N	n:481 
+R	r:753 
+k|a	?:4 
+V	f:78 
+Z	z:89 
+k|h	x:180 
+b	b:14576 b|"e:2 
+S|h	S:9 
+1|)	l:1 ?:1 
+j	d_Z:3779 "aj:1 d_Z|"e:1 
+n	n:38675 N:7 @|n:1 
+r	r:32714 E|r:2 
+S|y	S:90 
+v	f:807 f|"e:1 
+o|i	oj:25 "oj:6 
+z	z:381 s:14 
+A	"a:207 a:886 ?:10 
+E	@:72 "e:49 e:148 "E:2 
+I	"i:147 i:317 "I:1 
+M	m:2671 
+U	"u:103 u:102 
+Y	j:171 
+a	a:50779 "a:31241 J|a:7182 ?:2 e:2 j|a:1 "e:2 E:1 "E:1 "a|k:1 
+e	@:41329 E:2091 e:5484 "e:4432 "E:553 i:6 I:1 a:1 "@:24 .:2 @|r:1 m|@:1 "i:2 
+N|g	N:72 
+i	I:5659 "i:13463 i:23783 "I:959 aj:1 r|"I:1 
+m	m:25160 E|m:3 ?:1 h|a:1 
+q	k|"i:1 
+u	"U:1112 "u:9856 u:9686 U:4093 aw:9 "aw:1 a:3 "a:3 
+y	j:1772 "i:10 i:8 J:2 aj:1 d_Z:1 j|"e:1 
+###################################################
+y -> "i	Adhy	? a d . h "i .
+h|i -> i	Alghifari	? a l . g i . f "a . r i
+k|a -> ?	Aranyaka	? a . r "a . J a ?
+y -> i	Asy	? "a . s i
+y -> "i	Athy	? a t_d . h "i .
+A -> ?	Audiens	? aw . d i . ? "e n s
+u -> aw	Audiens	? aw . d i . ? "e n s
+A -> ?	Audisi	? aw . d "i . s i
+u -> aw	Audisi	? aw . d "i . s i
+A -> ?	Audisinya	? aw . d i . s "i . J a
+u -> aw	Audisinya	? aw . d i . s "i . J a
+A -> ?	Audita	? aw . d "i . t_d a
+u -> aw	Audita	? aw . d "i . t_d a
+A -> ?	Austine	? aw s . t_d i . n "e
+u -> aw	Austine	? aw s . t_d i . n "e
+A -> ?	Austronesia	? aw s . t_d r o . n e . s "i . ? a
+u -> aw	Austronesia	? aw s . t_d r o . n e . s "i . ? a
+A -> ?	Autentifikasi	? aw . t_d e n . t_d i . f i . k "a . s i
+u -> aw	Autentifikasi	? aw . t_d e n . t_d i . f i . k "a . s i
+A -> ?	Autentikasi	? aw . t_d e n . t_d i . k "a . s i
+u -> aw	Autentikasi	? aw . t_d e n . t_d i . k "a . s i
+A -> ?	Autokorelasi	? aw . t_d o . k o . r e . l "a . s i
+u -> aw	Autokorelasi	? aw . t_d o . k o . r e . l "a . s i
+A -> ?	Auzar	? "aw . z a r
+u -> "aw	Auzar	? "aw . z a r
+e|z -> s	Benitez	b @ . n "I t_d s
+y -> J	Bhayangkari	b h a . J a N . k "a . r i
+d -> t_d	Bilad	b "i . l a t_d
+o|i -> "oj	Boi	b "oj
+u -> a	Bunderan	b a n . d "e . r a n
+k|a -> ?	Campaka	t_S a m . p "a ?
+y -> i	Deasy	d e . ? "a . s i
+z -> s	Diaz	d i . ? "a s
+g -> d_Z	Digitalnya	d i . d_Z i . t_d "a l . J a
+E -> "E	Efri	? "E f . r i
+E -> "E	Ek	? "E ?
+s|h -> S	Elshinta	? e . l S "i n . t_d a
+x -> x	Explorasi	? e x . p l o . r "a . s i
+x -> x	Expresi	? e x . p r "e . s i
+x -> x	Extrimis	? e x . t_d r "i . m I s
+z -> s	Fairuz	f a . ? "i . r U s
+s|h -> S	Faishal(1)	f a . ? "i . S a l
+l|( -> _	Faishal(1)	f a . ? "i . S a l
+1|) -> l	Faishal(1)	f a . ? "i . S a l
+z -> s	Faridz	f a . r "i d s
+c -> k	Fransisca	f r a n . s "i s . k a
+s|h -> S	Fukushima	f u . k u . S "i . m a
+o -> @	Fungsionaris	f u N . s i . ? @ . n "a . r I s
+G -> d_Z	Generatif	d_Z e . n @ . r "a . t_d I f
+y -> i	Habsy	h "a b . s i
+z -> s	Hafidz	h "a . f I d s
+u|l -> l	Haurgeulis	h "aw r . g @ . l I s
+z -> s	Haz	h "a s
+a -> ?	Huayna	h "u . ? aj . n a
+y -> aj	Huayna	h "u . ? aj . n a
+y -> "i	Hyang	h "i . ? a N
+y -> "i	Hyangyak	h "i . ? a N . j a ?
+y -> "i	Hypnos	h "i . p n O s
+I -> "I	Ih	? "I h
+x -> x	Imax	? i . m "a x
+n|k -> N	Infobank	? i n . f o . b "a N
+s|h -> S	Isha	? "i . S a
+x -> x	Japex	d_Z "a . p E x
+n -> N	Kongregasional	k o N . g r e . g a . s i . ? "o . n a l
+_ -> a	Kubawa	? a . k u . b "a . w a
+h|i -> I	Kuchiki	k "u . t_S I . k i
+_ -> a	Kukatakan	? a . k u . k a . t_d "a . k a n
+s|h -> S	Kushi	k u . S "i
+_ -> a	Kuterima	? a . k u . t_d @ . r "i . m a
+x -> x	Limex	l "i . m E x
+h|i -> I	Marchingband	m "a r . t_S I N . b a n d
+z -> s	Markaz	m a r . k "a s
+h|u -> "u	Masyhudi	m a . S "u . d i
+y -> "i	Melampyrum	m @ . l a m . p "i . r U m
+n -> N	Menkumham	m @ N . k "u m . h a m
+u|l -> l	Meulaboh	m @ . l "a . b O h
+s|h -> S	Monash	m o . n "a S
+y -> i	Monthy	m "o n . t_d h i
+h|i -> I	Muchid	m "u . t_S I d
+_ -> k|"a	Mumu	m u . k "a . m u
+z -> s	Muraz	m u . r "a s
+s|h -> S	Mushola	m u . S "o . l a
+s|h -> S	Musholah	m u . S "o . l a h
+o|e -> o	Nagroe	n "a . g r o
+o -> @	Operasionalnya	? o . p @ . r a . s i . ? @ . n "a l . J a
+o|e -> u	Parangloe	p a . r "a N . l u
+c -> k	Pascasarjananya	p a s . k a . s a r . d_Z a . n "a . J a
+z -> s	Paz	p "a s
+o|i -> "oj	Pemboikotan	p @ m . b "oj . k o t_d . a n
+z -> s	Perutz	p @ . r "u t_d s
+s|h -> S	Prakash	p r a . k "a S
+_ -> e	Raj	r "a . d_Z e
+e -> i	Reseksi	r i . s "e k . s i
+R|h -> r	Rhizophora	r i . z o . p h "o . r a
+R|h -> r	Rhizopoda	r i . z o . p "o . d a
+R|h -> r	Rhizopora	r i . z o . p "o . r a
+R|h -> r	Rhizopus	r i . z "o . p U s
+y -> "i	Sanghyang	s a N . h "i . ? a N
+S|h -> S	Shihab	S "i . h a b
+S|h -> S	Shima	S "i . m a
+S|h -> S	Shimon	S "i . m O n
+S|h -> S	Shinjang	S "i n . d_Z a N
+S|h -> S	Shinta	S "i n . t_d a
+S|h -> S	Shintoisme	S i n . t_d o . ? "i s . m @
+s|h -> S	Shodoshima	s h o . d o . S "i . m a
+S|h -> S	Sholah	S "o . l a h
+S|h -> S	Sholeh	S "o . l E h
+S|h -> S	Sholihin	S o . l "i . h I n
+n|k -> N	Tanknya	t_d "a N . J a
+y -> i	Theosophy	t_d h e . ? o . s "o . p h i
+h|u -> "u	Thurles	t_d "u r . l E s
+s|h -> S	Toshio	t_d o . S "i . ? o
+z -> s	Ustadz	? u s . t_d "a d s
+x -> x	Velix	f "e . l I x
+x -> x	Waxman	w "a x m . a n
+s|h -> S	Wishnu	w "i . S n u
+X -> x	Xanthoma	x a n . t_d h "o . m a
+X -> x	Xanthone	x a n . t_d h "o . n e
+X -> x	Xanthoprotein	x a n . t_d h o . p r o . t_d "e . ? I n
+X -> x	Xanthosis	x a n . t_d h "o . s I s
+X -> x	Xenia	x e . n "i . ? a
+X -> x	Xenopon	x e . n "o . p O n
+X -> x	Xenopus	x e . n "o . p U s
+X -> x	Xilem	x "i . l @ m
+X -> x	Ximending	x i . m "e n . d I N
+X -> x	Xinran	x "i n . r a n
+X -> x	Xiumin	x i . ? "u . m I n
+X -> x	Xuerui	x u . ? @ . r "u . ? i
+z -> s	Yuhaz	j u . h "a s
+_ -> e	ab	? "a . b e
+_ -> e	ac	? "a . t_S e
+_ -> e	ad	? "a . d e
+a -> e	aerobik	? e . ? @ . r "o . b I ?
+_ -> e	aj	? "a . d_Z e
+a -> ?	ajre	? "aj . r @
+j -> "aj	ajre	? "aj . r @
+a -> e	akriflavina	? a . k r i . f l e . f "i . n a
+s|e -> s	aliase	? a . l "i . ? a s
+k|a -> ?	alpaka	? "a l . p a ?
+n -> N	ambilingual	? a m . b i . l i N . g "u . ? a l
+e -> I	amen	? "a . m I n
+n|k -> N	antitank	? a n . t_d "i . t_d a N
+_ -> e	ap	? "a . p e
+y -> i	arasy	? a . r "a . s i
+s -> E|s	as	? "a . ? E s
+o|i -> "oj	asoi	? a . s "oj
+_ -> e	at	? "a . t_d e
+n -> N	audiolingual	? aw . d i . ? o . l i N . g "u . ? a l
+o|i -> "oj	azoikum	? a . z "oj . k U m
+b -> b|"e	b	b "e
+e -> a	babe	b "a . b a ?
+u|l -> l	baheula	b a . h @ . l "a
+n|k -> N	bank	b "a N
+n -> N	bankir	b "a N . k I r
+n|k -> N	banknya	b "a N . J a
+r|e -> r	bare	b "a r
+y -> i	bay	b "a . ? i
+g -> d_Z	bermerger	b @ r . m "e r . d_Z @ r
+e -> "@	besel	b "@ . s @ l
+y -> J	bhayangkara	b h a . J a N . k "a . r a
+a -> j|a	biarlah	b "i . j a r . l a h
+a -> "e	brander	b r "e n . d @ r
+u -> a	bundelan	b a n . d "e . l a n
+u -> a	bunderan	b a n . d "e . r a n
+u -> "a	buntat	b "a n . t_d a t_d
+u -> "a	buntek	b "a n . t_d E ?
+u -> "a	buntil	b "a n . t_d I l
+s|h -> S	bushido	b u . S "i . d o
+c -> t_S|"e	c	t_S "e
+c -> k	cala	k "a . l a
+e -> "@	celep	t_S "@ . l @ p
+c -> s	celsius	s @ l . s "i . ? U s
+k|a -> ?	cempaka	t_S @ m . p "a ?
+e -> "@	cespleng	t_S "@ s . p l @ N
+d -> d|"e	d	d "e
+y -> "i	danghyang	d a N . h "i . ? a N
+y -> i	deasy	d e . ? "a . s i
+s|e -> s	debitase	d @ . b "i . t_d a s
+i -> aj	defile	d "e . f aj l
+l|e -> l	defile	d "e . f aj l
+o -> @	deflasionari	d e . f l a . s i . ? @ . n "a . r i
+e -> "@	demen	d "@ . m @ n
+a -> "e	detail	d e . t_d "e . ? I l
+e -> i	deutranopia	d i . ? u . t_d r a . n o . p "i . ? a
+g -> d_Z	digembok	d i . d_Z "e m . b O ?
+g -> d_Z	digestif	d i . d_Z "e s . t_d I f
+g -> d_Z	digigiti	d i . d_Z i . g "i . t_d i
+g -> d_Z	digigitnya	d i . d_Z i . g "i t_d . J a
+g -> d_Z	digilirkan	d i . d_Z i . l "i r . k a n
+g -> d_Z	digit	d "i . d_Z I t_d
+g -> d_Z	digitalin	d i . d_Z i . t_d "a . l I n
+g -> d_Z	digitalis	d i . d_Z i . t_d "a . l I s
+g -> d_Z	digitalisasi	d i . d_Z i . t_d a . l i . s "a . s i
+g -> d_Z	digitalnya	d i . d_Z i . t_d "a l . J a
+h|i -> I	dilaunching	d i . l "aw n . t_S I N
+h|u -> u	dimasyhurkan	d i . m "a . S u r . k a n
+o -> @	dioperasionalkan	d i . ? o . p @ . r a . s i . ? @ . n "a l . k a n
+s|e -> s	dioptase	d i . ? "o p . t_d a s
+d -> t_d	diploid	d i . p l "o . ? I t_d
+o -> @	diprofesionalkan	d i . p r o . f e . s i . ? @ . n "a l . k a n
+o|e -> "u	doeloe	d "u . l u
+o|e -> u	doeloe	d "u . l u
+s|h -> S	ekshibisionis	? e k . S i . b i . s i . ? "o . n I s
+s|h -> S	ekshibitum	? e k . S i . b "i . t_d U m
+a -> E	eksklave	? "e k s . k l E f
+v|e -> f	eksklave	? "e k s . k l E f
+t|e -> t_d	elite	? "e . l I t_d
+o -> @	emosionalnya	? e . m o . s i . ? @ . n "a l . J a
+x -> x	explorasi	? e x . p l o . r "a . s i
+x -> x	expresi	? e x . p r "e . s i
+x -> x	extensi	? e x . t_d "e n . s i
+_ -> "E	f	? "E f
+o|e -> o	faeroe	f a . ? "e . r o
+o -> @	fungsional	f u N . s i . ? @ . n "a l
+o -> @	fungsionalnya	f u N . s i . ? @ . n "a l . J a
+o -> @	fungsionaris	f u N . s i . ? @ . n "a . r I s
+o -> @	fungsionarisnya	f u N . s i . ? @ . n a . r "i s . J a
+g -> g|"e	g	g "e
+y -> d_Z	gaya	g "a . d_Z a
+g -> d_Z	generalis	d_Z e . n @ . r "a . l I s
+g -> d_Z	generalisasi	d_Z e . n @ . r a . l i . s "a . s i
+g -> d_Z	generasinya	d_Z e . n @ . r a . s "i . J a
+g -> d_Z	generatif	d_Z e . n @ . r "a . t_d I f
+g -> d_Z	generator	d_Z e . n @ . r "a . t_d O r
+g -> d_Z	generik	d_Z e . n @ . r "I ?
+h -> h|"a	h	h "a
+a -> "E	has	h "E s
+s|h -> S	hiroshima	h i . r o . S "i . m a
+z|o -> s	horizontal	h o . r i . s @ n . t_d "a l
+n -> @|n	horizontal	h o . r i . s @ n . t_d "a l
+j -> d_Z|"e	j	d_Z "e
+z -> s	jaz	d_Z "a s
+e -> "@	jejer	d_Z "@ . d_Z @ r
+k -> k|"a	k	k "a
+e -> "@	ke	k "@
+e -> "@	kejer	k "@ . d_Z @ r
+e -> "@	kekep	k "@ . k @ p
+y -> "i	kempyang	k @ m . p "i . ? a N
+_ -> k|"a	kemu	k @ . k "a . m u
+_ -> a	kemuliaannya	k @ . m u . l i . ? "a . ? a n . J a . J a
+e -> .	keratoelastin	k @ . r a . t_d O . l "a s . t_d I n
+e -> "@	kesengsem	k @ . s "@ N . s @ m
+e -> "@	keseser	k @ . s "@ . s @ r
+e -> "@	ketel	k "@ . t_d @ l
+h|i -> i	kirghizia	k i r . g i . z "i . ? a
+_ -> "a	km	k "a . E m
+m -> E|m	km	k "a . E m
+n -> N	kongregasi	k o N . g r e . g "a . s i
+o -> @	konvensionalnya	k o n . f e n . s i . ? @ . n "a l . J a
+_ -> a	ksi	k a . ? "e s . i
+_ -> "e	ksi	k a . ? "e s . i
+_ -> a	kubacakan	? a . k u . b a . t_S "a k . a n
+h|i -> I	kuching	k "u . t_S I N
+_ -> a	kufirmankan	? a . k u . f i r . m "a n . k a n
+_ -> a	kuhampiri	? a . k u . h a m . p "i . r i
+h|u -> u	kumasyhurkan	k u . m "a . S u r . k a n
+_ -> a	kutaruh	? a . k u . t_d "a . r U h
+_ -> a	kuteguhkan	? a . k u . t_d @ . g "u h . k a n
+_ -> "E	l	? "E l
+e -> "@	lempem	l "@ m . p @ m
+e -> "@	lempeng	l "@ m . p @ N
+e -> "@	lemper	l "@ m . p @ r
+s|e -> s	lipase	l "i . p a s
+_ -> "E	m	? "E m
+h|i -> I	marchingband	m "a r . t_S I N . b a n d
+s|e -> s	masase	m "a . s a s
+h|u -> U	masyhur	m "a . S U r
+h|u -> "u	masyhurlah	m a . S "u r . l a h
+_ -> @	mb	? @ m . b "e
+b -> b|"e	mb	? @ m . b "e
+_ -> @	mbal	? @ m . b "a l
+e -> @|r	mediterania	m e . d i . t_d @ r . r a . n "i . ? a
+e -> "@	mem	m "@ m
+e -> m|@	membandingkannya	m m @ m . b a n . d "i N . k a n . J a
+o -> @	memprofesionalkan	m @ m . p r o . f e . s i . ? @ . n "a l . k a n
+c -> k	mencecak	m @ n . t_S @ . k "a ?
+e -> "@	mencelep	m @ n . t_S "@ . l @ p
+g -> d_Z	mendigitalisasi	m @ n . d i . d_Z i . t_d a . l i . s "a . s i
+t|e -> t_d	mengelite	m @ . N @ . l "I t_d
+n -> N	mengempa	m @ N . g @ m . p "a
+c -> k	mengericau	m @ . N @ . r "i . k aw
+o -> @	mengoperasionalkan	m @ N . o . p @ . r a . s i . ? @ . n "a l . k a n
+_ -> k|"a	menjaminmu	m @ n . d_Z a . m i . n k "a . m u
+s|e -> s	menopause	m @ . n "o . p aw s
+y -> "i	menyembahyangkan	m @ . J @ m . b a . h "i . ? a N . k a n
+m -> ?	merdekakan	? @ r . d e . k "a . k a n
+g -> d_Z	merger	m "e r . d_Z @ r
+z -> s	mesozoikum	m e . s o . s o . ? "i . k U m
+d -> t_d	milad	m "i . l a t_d
+o -> @	misionaris	m i . s i . ? @ . n "a . r I s
+o -> @	misionarislah	m i . s i . ? @ . n a . r "i s . l a h
+_ -> "e	mm	? "e m . E m
+m -> E|m	mm	? "e m . E m
+s|h -> S	musholah	m u . S "o . l a h
+s|y -> s	musytari	m u s . t_d "a . r i
+_ -> "E	n	? "E n
+_ -> "e	ofm	? o . ? "e f . E m
+m -> E|m	ofm	? o . ? "e f . E m
+o -> @	operasionalnya	? o . p @ . r a . s i . ? @ . n "a l . J a
+p -> p|"e	p	p "e
+a|y -> aj	paraguay	p a . r a . g "u . ? aj
+c -> k	pasca	p "a s . k a
+c -> k	pascasarjana	p a s . k a . s a r . d_Z "a . n a
+c -> k	pascasarjananya	p a s . k a . s a r . d_Z a . n "a . J a
+c -> k	pascasejarah	p a s . k a . s @ . d_Z "a . r a h
+c -> k	pascasidang	p a s . k a . s "i . d a N
+s|e -> s	pause	p "aw s
+c -> k	pecai	p @ . k "aj
+e -> "@	pecel	p "@ . t_S @ l
+i -> r|"I	perin	p @ r . r "I n
+o|i -> "oj	peroi	p @ . r "oj
+o -> @	profesionalnya	p r o . f e . s i . ? @ . n "a l . J a
+q -> k|"i	q	k "i
+_ -> "E	r	? "E r
+e -> "@	rembes	r "@ m . b @ s
+e -> i	resapan	r i . s "a . p a n
+e -> i	reseksi	r i . s "e k . s i
+e -> i	resensi	r i . s "e n . s i
+e -> "i	reserse	r "i . s e r s
+s|e -> s	reserse	r "i . s e r s
+e -> "i	reses	r "i . s E s
+e -> i	retorika	r i . t_d o . r "i . k a
+h|i -> i	rhizophora	r i . z o . p h "o . r a
+h|i -> i	rhizopoda	r i . z o . p "o . d a
+h|i -> i	rhizopus	r i . z "o . p U s
+_ -> "e	ri	? "e r . i
+_ -> "E	s	? "E s
+_ -> e	sbb	? e s . b "e . b e
+_ -> "e	sbb	? e s . b "e . b e
+_ -> e	sbb	? e s . b "e . b e
+_ -> e	sdr	? e s . d "e . E r
+_ -> "e	sdr	? e s . d "e . E r
+r -> E|r	sdr	? e s . d "e . E r
+e -> "@	se	s "@
+e|a -> "i	sea	s "i
+_ -> k|"a	selumu	s @ . l u . k "a . m u
+m -> h|a	semestinya	s @ . h a . r "u s . J a
+e -> .	semestinya	s @ . h a . r "u s . J a
+s -> r|"u	semestinya	s @ . h a . r "u s . J a
+t|i -> s	semestinya	s @ . h a . r "u s . J a
+e -> "@	sengsem	s "@ N . s @ m
+o -> @	sensasionalnya	s @ n . s a . s i . ? @ . n "a l . J a
+e -> "@	sepet	s "@ . p @ t_d
+o|i -> "oj	sepoi	s @ . p "oj
+t|a -> t_d	serentak(1)	s @ . r "E n . t_d a ?
+k|( -> a	serentak(1)	s @ . r "E n . t_d a ?
+1|) -> ?	serentak(1)	s @ . r "E n . t_d a ?
+s|h -> S	shio	S "i . ? o
+_ -> e	sma	? e s . "e m . a
+_ -> "e	sma	? e s . "e m . a
+_ -> e	sms	? e s . "e m s
+_ -> "e	sms	? e s . "e m s
+_ -> "e	sr	? "e s . E r
+r -> E|r	sr	? "e s . E r
+t -> t_d|"e	t	t_d "e
+a -> "a|k	takluk	t_d "a k . k l U ?
+n|k -> N	tanknya	t_d "a N . J a
+e -> "@	teles	t_d "@ . l @ s
+h|u -> U	termasyhur	t_d @ r . m "a . S U r
+e -> "@	terpepet	t_d @ r . p "@ . p @ t_d
+e -> "@	tersengsem	t_d @ r . s "@ N . s @ m
+t -> t_d|e	tgl	t_d e . g "e . E l
+_ -> "e	tgl	t_d e . g "e . E l
+l -> E|l	tgl	t_d e . g "e . E l
+z -> s	ustaz	? u s . t_d "a s
+v -> f|"e	v	f "e
+w -> w|"e	w	w "e
+_ -> "e	x	? "e k s
+x -> k|s	x	? "e k s
+x -> x	xanthoma	x a n . t_d h "o . m a
+x -> x	xanthone	x a n . t_d h "o . n e
+x -> x	xanthones	x a n . t_d h "o . n E s
+x -> x	xanthopterin	x a n . t_d h o p . t_d @ . r "I n
+x -> x	xenia	x e . n "i . ? a
+x -> s	xenofobia	s @ . n o . f o . b "i . ? a
+x -> x	xenograf	x e . n "o . g r a f
+x -> s	xenokrasi	s e . n o . k r "a . s i
+x -> s	xerografi	s e . r o . g r "a . f i
+x -> x	xilem	x "i . l @ m
+y -> j|"e	y	j "e
+_ -> "E|t_d	z	z "E t_d
